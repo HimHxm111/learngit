@@ -1,8 +1,4 @@
 aaadddssssss
 ddddd
 cccaaaab
-<<<<<<< HEAD
-ppp
-=======
-aaa
->>>>>>> ac
+ccccdddd
