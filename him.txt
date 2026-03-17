@@ -1,6 +1,10 @@
 aaadddssssss
 ddddd
 cccaaaab
+<<<<<<< HEAD
 i
 o
 aaaddd
+=======
+ccccdddd
+>>>>>>> i
