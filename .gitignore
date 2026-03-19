@@ -1,0 +1,4 @@
+.*
+*.class
+!.gitignore
+!App.class
